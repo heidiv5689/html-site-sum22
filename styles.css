@@ -1,0 +1,26 @@
+#imgHd {
+  position: relative;
+  height: 400px;
+  min-height: 500px;
+  width: 100%;
+  background: #161415 url(/image//20210509_203015.jpg) no-repeat top center;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  text-align: center;
+  overflow: hidden;
+ 
+}
+
+
+#contact {
+  background: #605e5e31;
+  padding-top: 96px;
+  padding-bottom: 102px;
+  color: #363333;
+}
+
+#cardOne{
+   padding: 10px;
+  padding-right: 155px;
+  padding-left: 155px;
+}
